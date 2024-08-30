@@ -10,7 +10,7 @@ const projects = [
         name: 'DashPlayer',
         description:
             'A video player tailored for English learners, immersing you in authentic English settings to boost your English skills effectively.',
-        link: {href: 'http://dash-player.solidspoon.xyz', label: 'planetaria.tech'},
+        link: {href: 'http://dash-player.solidspoon.xyz', label: 'dash-player.solidspoon.xyz'},
         logo: logoDashPlayr,
     },
     // {
